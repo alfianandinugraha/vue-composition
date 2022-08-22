@@ -1,7 +1,12 @@
-# Vue 3 + Vite
+# Composition API Basic
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+### Files
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+- `components/counter.vue` - Learn basic ref
+- `components/account.vue` - Learn object ref
+- `components/foods.vue` - Learn composables/hooks
+- `components/money.vue` - Learn about watch
+- `components/product.vue` - Learn deep watch
+- `components/register.vue` - Learn ref for bind html
+- `components/profile` - Learn provide-inject
+- `components/news` - Learn passing props and emit event
